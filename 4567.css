@@ -1,0 +1,19 @@
+body { background-color:#1F7A6B; }
+h1 {
+color:orange;
+text-align:center; }
+#QWE1 {
+color:#00FFFF;
+font-family:"Times New Roman";
+font-size:100px; }
+.center
+{
+text-align:center;
+color:orange;
+font-size:50px;
+}
+div p 
+{background-color:rgb(123,200,109);}
+p:hover{background-color:rgb(12,20,9)}
+a[target] {
+background-color: red;
